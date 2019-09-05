@@ -1,0 +1,10 @@
+*~
+*#*
+*.pyc
+
+*.aux
+*.bbl
+*.blg
+*.log
+
+*.DS_Store
